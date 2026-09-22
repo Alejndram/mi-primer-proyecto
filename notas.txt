@@ -1,0 +1,4 @@
+Mis notas de aprendizaje:
+- Git es como una máquina del tiempo
+- Los commits son fotos
+- Las ramas son universos paralelos
