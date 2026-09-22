@@ -8,3 +8,9 @@ He editado esta intro desde la terminal de mi pc.
 
 Hoy estoy aprendiendo Git y es genial.
 
+
+
+\## Mi segunda edición
+
+Acabo de hacer mi segundo cambio. Git está empezando a tener sentido.
+
